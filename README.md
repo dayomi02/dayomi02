@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-🔭 I’m currently working on ...  <br>
-🌱 I’m currently learning ...
 -->
+👩🏻‍🎓 I'm a graduate of Mirim girl's Information Science High School.
+🌱 I’m currently learning Linux, C, Node.js <br>
+📃 I mainly use C, JAVA, PHP, JavaScript <br>
+😄 Pronouns: study, happiness <br>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dayomi02&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
