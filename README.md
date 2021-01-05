@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-👩🏻‍🎓 I'm a graduate of Mirim girl's Information Science High School.
+👩🏻‍🎓 I'm a graduate of Mirim girl's Information Science High School <br>
 🌱 I’m currently learning Linux, C, Node.js <br>
 📃 I mainly use C, JAVA, PHP, JavaScript <br>
 😄 Pronouns: study, happiness <br>
