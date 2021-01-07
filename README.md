@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 📃 I mainly use C, JAVA, PHP, JavaScript <br>
 😄 Pronouns: study, happiness <br> <br>
 
-### Tech Stack
+### 🛠 Tech Stack 🛠
 Techs that I've used at least once
 
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a> <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>       <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
@@ -34,7 +34,7 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a> 
 
-### Me
+### 👩🏻‍💻 Me 👩🏻‍💻
 <a href="https://www.facebook.com/profile.php?id=100010842941098"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010842941098"/></a>
 <a href="https://www.instagram.com/da__yeon_.__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/da__yeon_.__/"/></a>
 <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link="/></a>
