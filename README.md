@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### 🛠 Tech Stack 🛠
 Techs that I've used at least once
 
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>       <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>  
@@ -40,7 +40,6 @@ Techs that I've used at least once
 <a href="https://www.instagram.com/da__yeon_.__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/da__yeon_.__/"/></a>
 <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link="/></a>
 <a href="https://dayomi02.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=Tistory&logoColor=white&link=https://dayomi02.tistory.com/"/></a>
-
 
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dayomi02&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
