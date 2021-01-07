@@ -23,17 +23,20 @@ Here are some ideas to get you started:
 ### 🛠 Tech Stack 🛠
 Techs that I've used at least once
 
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>       <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C-Sharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>  
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a> <br><br>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
+<br><br>
 
 ### 👩🏻‍💻 Me 👩🏻‍💻
 <a href="https://www.facebook.com/profile.php?id=100010842941098"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010842941098"/></a>
