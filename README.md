@@ -33,8 +33,8 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a> 
-<br>
+<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a> <br><br>
+
 ### 👩🏻‍💻 Me 👩🏻‍💻
 <a href="https://www.facebook.com/profile.php?id=100010842941098"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010842941098"/></a>
 <a href="https://www.instagram.com/da__yeon_.__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/da__yeon_.__/"/></a>
