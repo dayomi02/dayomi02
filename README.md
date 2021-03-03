@@ -1,8 +1,9 @@
 ### Hi there I'm dayeon 👋
 
 👩🏻‍🎓 I'm a graduate of Mirim girl's Information Science High School <br>
-🌱 I’m currently learning Linux, C, Node.js <br>
-📃 I mainly use C, JAVA, PHP, JavaScript <br>
+🏢 I'm working in Perseus Corp. <br>
+🌱 I’m currently learning Linux, C, Hypervisor <br>
+📃 I mainly use C, JAVA, PHP <br>
 😄 Pronouns: study, happiness <br> <br>
 
 ### 🛠 Tech Stack 🛠
