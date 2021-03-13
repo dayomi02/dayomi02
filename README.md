@@ -2,7 +2,7 @@
 
 👩🏻‍🎓 I'm a graduate of Mirim girl's Information Science High School <br>
 🏢 I'm working in Perseus Corp. <br>
-🌱 I’m currently learning Linux, C, Hypervisor <br>
+🌱 I’m currently learning C language, Linux, Hypervisor <br>
 📃 I mainly use C, JAVA, PHP <br>
 😄 Pronouns: study, happiness <br> <br>
 
@@ -19,8 +19,6 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 <br><br>
 
