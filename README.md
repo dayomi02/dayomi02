@@ -20,7 +20,7 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
-<br><br><br>
+<br><br>
 
 ### 👩🏻‍💻 Me 👩🏻‍💻
 <a href="https://www.facebook.com/profile.php?id=100010842941098"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010842941098"/></a>
