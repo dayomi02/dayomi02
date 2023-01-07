@@ -1,7 +1,7 @@
 ### Hi there I'm dayeon 👋
 
 👩🏻‍🎓 I'm a graduate of Mirim girl's Information Science High School <br>
-🏢 I'm working in Perseus Corp. <br>
+🏢 I'm working in Saltlux Corp. <br>
 🌱 I’m currently learning C language, Linux, Hypervisor <br>
 📃 I mainly use C, JAVA, PHP <br>
 😄 Pronouns: study, happiness <br> <br>
