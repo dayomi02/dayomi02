@@ -3,7 +3,7 @@
 👩🏻‍🎓 I'm a graduate of Mirim girl's Information Science High School <br>
 🏢 I'm working in Saltlux Corp. <br>
 🌱 I’m currently learning C language, Linux, Hypervisor <br>
-📃 I mainly use C, JAVA, PHP <br>
+📃 I mainly use JAVA, C, Spring <br>
 😄 Pronouns: study, happiness <br> <br>
 
 ### 🛠 Tech Stack 🛠
