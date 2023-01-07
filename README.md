@@ -1,5 +1,6 @@
 ### Hi there I'm dayeon 👋
 
+<!-- 
 👩🏻‍🎓 I'm a graduate of Mirim girl's Information Science High School <br>
 🏢 I'm working in Saltlux Corp. <br>
 🌱 I’m currently learning C language, Linux, Hypervisor <br>
@@ -27,3 +28,5 @@ Techs that I've used at least once
 <a href="https://www.instagram.com/da__yeon_.__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/da__yeon_.__/"/></a>
 <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link="/></a>
 <a href="https://dayomi02.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=Tistory&logoColor=white&link=https://dayomi02.tistory.com/"/></a>
+
+-->
