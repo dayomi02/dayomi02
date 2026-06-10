@@ -1,32 +1,41 @@
-### Hi there I'm dayeon 👋
+# 안녕하세요, 최다연입니다 👋
 
-<!-- 
-👩🏻‍🎓 I'm a graduate of Mirim girl's Information Science High School <br>
-🏢 I'm working in Saltlux Corp. <br>
-🌱 I’m currently learning C language, Linux, Hypervisor <br>
-📃 I mainly use JAVA, C, Spring <br>
-😄 Pronouns: study, happiness <br> <br>
+> 동작하는 코드보다 무너지지 않는 구조를 먼저 생각하는 백엔드 개발자입니다.
 
-### 🛠 Tech Stack 🛠
-Techs that I've used at least once
+## About Me
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>       <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C-Sharp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>  
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
-<br><br>
+- 🔍 **전문 영역** : OpenSearch 하이브리드 검색 · RAG 파이프라인 · 운영 안정성 설계
+- 🏢 **현재** : Dweax — RAG·검색·온톨로지 플랫폼 백엔드 개발 (2023.03 ~)
+- 📜 **자격증** : 정보처리기사 · OCJA
+- 📍 **위치** : Seoul, Korea
+- 📫 **연락처** : ek6055@naver.com
 
-### 👩🏻‍💻 Me 👩🏻‍💻
-<a href="https://www.facebook.com/profile.php?id=100010842941098"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010842941098"/></a>
-<a href="https://www.instagram.com/da__yeon_.__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/da__yeon_.__/"/></a>
-<a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link="/></a>
-<a href="https://dayomi02.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=Tistory&logoColor=white&link=https://dayomi02.tistory.com/"/></a>
+## Tech Stack
 
--->
+**주력**
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+
+**활용**
+
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+## Key Achievements
+
+| 성과 | 내용 |
+|------|------|
+| 🎯 RAG 정답률 개선 | 70% → 90% (4개국어 평가셋 400건 직접 구축) |
+| ⚡ AI 응답속도 단축 | 25초 → 10초 (60% 단축, Redis 시맨틱 캐시) |
+| 🔎 검색 응답속도 개선 | 8~12초 → 1~3초 (BM25+KNN+RRF 하이브리드) |
+| 🔄 재색인 다운타임 0 | Blue-Green 인덱스 스왑 패턴 설계·구현 |
+
+## Projects
+
+- 🚧 [traceworks](https://github.com/dayomi02/traceworks) — AI 기반 SI 프로젝트 실행관리 자동화 플랫폼 (진행 중)
