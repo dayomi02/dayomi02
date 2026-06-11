@@ -2,6 +2,8 @@
 
 > 동작하는 코드보다 무너지지 않는 구조를 먼저 생각하는 백엔드 개발자입니다.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://your-portfolio.com)
+
 ## About Me
 
 - 🔍 **전문 영역** : OpenSearch 하이브리드 검색 · RAG 파이프라인 · 운영 안정성 설계
