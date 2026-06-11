@@ -2,7 +2,7 @@
 
 > 동작하는 코드보다 무너지지 않는 구조를 먼저 생각하는 백엔드 개발자입니다.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)]([https://your-portfolio.com](https://unleashed-ringer-f04.notion.site/37b979582ba080dfa74dd71573627d89))
 
 ## About Me
 
