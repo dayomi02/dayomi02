@@ -1,6 +1,6 @@
 # 안녕하세요, 최다연입니다 👋
 
-> 동작하는 코드보다 무너지지 않는 구조를 먼저 생각하는 백엔드 개발자입니다.
+> 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge)](https://unleashed-ringer-f04.notion.site/37b979582ba080dfa74dd71573627d89)
 
