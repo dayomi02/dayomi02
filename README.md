@@ -29,15 +29,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-## Key Achievements
-
-| 성과 | 내용 |
-|------|------|
-| 🎯 RAG 정답률 개선 | 70% → 90% (4개국어 평가셋 400건 직접 구축) |
-| ⚡ AI 응답속도 단축 | 25초 → 10초 (60% 단축, Redis 시맨틱 캐시) |
-| 🔎 검색 응답속도 개선 | 8~12초 → 1~3초 (BM25+KNN+RRF 하이브리드) |
-| 🔄 재색인 다운타임 0 | Blue-Green 인덱스 스왑 패턴 설계·구현 |
-
 ## Projects
 
 - 🚧 [traceworks](https://github.com/dayomi02/traceworks) — AI 기반 SI 프로젝트 실행관리 자동화 플랫폼 (진행 중)
